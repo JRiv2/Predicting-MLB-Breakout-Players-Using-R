@@ -1,6 +1,6 @@
 # Predicting-MLB-Breakout-Players-Using-R
-Jordan Rivera
-Fall 2020
+### Jordan Rivera
+### Fall 2020
 
 ## Project Description:
 Initiated, designed, and implemented data analysis project examining player statistics for MLB breakout players
