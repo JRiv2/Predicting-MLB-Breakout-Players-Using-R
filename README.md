@@ -11,8 +11,8 @@
 
 ## Project Files:
 ### BRefProject.R
-R script for project. Scrapes data from online websites, cleans and analyzes data, creates plots
+##### R script for project. Scrapes data from online websites, cleans and analyzes data, creates plots
 ### BRefProject.RData
-Data set created by BRefProject.R. Included here because running the code in the R script to create this data set will take hours
+##### Data set created by BRefProject.R. Included here because running the code in the R script to create this data set will take hours
 ### Presentation.pptx
-PowerPoint Presentation explaining project and discussing results
+##### PowerPoint Presentation explaining project and discussing results
